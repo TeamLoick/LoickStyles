@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Usage/sections",
+  "id": "Usage/sections",
+  "title": "sections",
+  "description": "",
+  "source": "@site/docs/Usage/sections.md",
+  "sourceDirName": "Usage",
+  "slug": "/Usage/sections",
+  "permalink": "/docs/Usage/sections",
+  "draft": false,
+  "editUrl": "https://github.com/TeamLoick/LoickStyles/blob/production/docs/Usage/sections.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Components",
+    "permalink": "/docs/Usage/Components"
+  },
+  "next": {
+    "title": "utilities",
+    "permalink": "/docs/Usage/utilities"
+  }
+}

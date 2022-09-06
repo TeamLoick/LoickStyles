@@ -1,0 +1,180 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "label": "Next",
+          "banner": null,
+          "badge": false,
+          "noIndex": false,
+          "className": "docs-version-current",
+          "path": "/docs",
+          "tagsPath": "/docs/tags",
+          "editUrl": "https://github.com/TeamLoick/LoickStyles/blob/production/docs",
+          "editUrlLocalized": "https://github.com/TeamLoick/LoickStyles/blob/production/i18n/en/docusaurus-plugin-content-docs/current",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "D:\\projects\\loick.team\\projects\\loickstyles\\LoickStyles\\sidebars.js",
+          "contentPath": "D:\\projects\\loick.team\\projects\\loickstyles\\LoickStyles\\docs",
+          "contentPathLocalized": "D:\\projects\\loick.team\\projects\\loickstyles\\LoickStyles\\i18n\\en\\docusaurus-plugin-content-docs\\current",
+          "docs": [
+            {
+              "unversionedId": "intro",
+              "id": "intro",
+              "title": "Tutorial Intro",
+              "description": "Let's discover LoickStyles.",
+              "source": "@site/docs/intro.md",
+              "sourceDirName": ".",
+              "slug": "/intro",
+              "permalink": "/docs/intro",
+              "draft": false,
+              "editUrl": "https://github.com/TeamLoick/LoickStyles/blob/production/docs/intro.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "next": {
+                "title": "Components",
+                "permalink": "/docs/Usage/Components"
+              }
+            },
+            {
+              "unversionedId": "Usage/Components",
+              "id": "Usage/Components",
+              "title": "Components",
+              "description": "Buttons",
+              "source": "@site/docs/Usage/Components.md",
+              "sourceDirName": "Usage",
+              "slug": "/Usage/Components",
+              "permalink": "/docs/Usage/Components",
+              "draft": false,
+              "editUrl": "https://github.com/TeamLoick/LoickStyles/blob/production/docs/Usage/Components.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Tutorial Intro",
+                "permalink": "/docs/intro"
+              },
+              "next": {
+                "title": "Sections",
+                "permalink": "/docs/Usage/Sections"
+              }
+            },
+            {
+              "unversionedId": "Usage/Sections",
+              "id": "Usage/Sections",
+              "title": "Sections",
+              "description": "Top Var",
+              "source": "@site/docs/Usage/Sections.md",
+              "sourceDirName": "Usage",
+              "slug": "/Usage/Sections",
+              "permalink": "/docs/Usage/Sections",
+              "draft": false,
+              "editUrl": "https://github.com/TeamLoick/LoickStyles/blob/production/docs/Usage/Sections.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Components",
+                "permalink": "/docs/Usage/Components"
+              },
+              "next": {
+                "title": "Utilities",
+                "permalink": "/docs/Usage/Utilities"
+              }
+            },
+            {
+              "unversionedId": "Usage/Utilities",
+              "id": "Usage/Utilities",
+              "title": "Utilities",
+              "description": "Modals",
+              "source": "@site/docs/Usage/Utilities.md",
+              "sourceDirName": "Usage",
+              "slug": "/Usage/Utilities",
+              "permalink": "/docs/Usage/Utilities",
+              "draft": false,
+              "editUrl": "https://github.com/TeamLoick/LoickStyles/blob/production/docs/Usage/Utilities.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Sections",
+                "permalink": "/docs/Usage/Sections"
+              }
+            }
+          ],
+          "drafts": [],
+          "sidebars": {
+            "tutorialSidebar": [
+              {
+                "type": "doc",
+                "id": "intro"
+              },
+              {
+                "type": "category",
+                "label": "Usage",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "Usage/Components"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Usage/Sections"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Usage/Utilities"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-blog": {
+    "default": {
+      "blogSidebarTitle": "Recent posts",
+      "blogPosts": [],
+      "blogListPaginated": [],
+      "blogTags": {},
+      "blogTagsListPath": "/blog/tags",
+      "blogTagsPaginated": []
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "jsx",
+        "permalink": "/",
+        "source": "@site/src/pages/index.js"
+      },
+      {
+        "type": "mdx",
+        "permalink": "/markdown-page",
+        "source": "@site/src/pages/markdown-page.md",
+        "title": "Markdown page example",
+        "description": "You don't need React to write simple standalone pages.",
+        "frontMatter": {
+          "title": "Markdown page example"
+        }
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {},
+  "docusaurus-theme-classic": {},
+  "docusaurus-bootstrap-plugin": {},
+  "docusaurus-mdx-fallback-plugin": {}
+}

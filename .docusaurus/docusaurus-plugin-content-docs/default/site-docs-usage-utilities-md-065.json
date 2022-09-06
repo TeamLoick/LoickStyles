@@ -1,0 +1,20 @@
+{
+  "unversionedId": "Usage/utilities",
+  "id": "Usage/utilities",
+  "title": "utilities",
+  "description": "",
+  "source": "@site/docs/Usage/utilities.md",
+  "sourceDirName": "Usage",
+  "slug": "/Usage/utilities",
+  "permalink": "/docs/Usage/utilities",
+  "draft": false,
+  "editUrl": "https://github.com/TeamLoick/LoickStyles/blob/production/docs/Usage/utilities.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Sections",
+    "permalink": "/docs/Usage/Sections"
+  }
+}

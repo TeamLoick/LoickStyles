@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Usage/components",
+  "id": "Usage/components",
+  "title": "components",
+  "description": "",
+  "source": "@site/docs/Usage/components.md",
+  "sourceDirName": "Usage",
+  "slug": "/Usage/components",
+  "permalink": "/docs/Usage/components",
+  "draft": false,
+  "editUrl": "https://github.com/TeamLoick/LoickStyles/blob/production/docs/Usage/components.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Tutorial Intro",
+    "permalink": "/docs/intro"
+  },
+  "next": {
+    "title": "sections",
+    "permalink": "/docs/Usage/sections"
+  }
+}
