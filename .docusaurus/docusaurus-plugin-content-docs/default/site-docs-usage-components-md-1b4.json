@@ -6,7 +6,7 @@
   "source": "@site/docs/Usage/Components.md",
   "sourceDirName": "Usage",
   "slug": "/Usage/Components",
-  "permalink": "/docs/Usage/Components",
+  "permalink": "/es/docs/Usage/Components",
   "draft": false,
   "editUrl": "https://github.com/TeamLoick/LoickStyles/blob/production/docs/Usage/Components.md",
   "tags": [],
@@ -15,10 +15,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Tutorial Intro",
-    "permalink": "/docs/intro"
+    "permalink": "/es/docs/intro"
   },
   "next": {
     "title": "Sections",
-    "permalink": "/docs/Usage/Sections"
+    "permalink": "/es/docs/Usage/Sections"
   }
 }

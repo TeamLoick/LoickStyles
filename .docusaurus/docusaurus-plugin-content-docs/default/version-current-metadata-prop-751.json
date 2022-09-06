@@ -12,7 +12,7 @@
       {
         "type": "link",
         "label": "Tutorial Intro",
-        "href": "/docs/intro",
+        "href": "/es/docs/intro",
         "docId": "intro"
       },
       {
@@ -24,19 +24,19 @@
           {
             "type": "link",
             "label": "Components",
-            "href": "/docs/Usage/Components",
+            "href": "/es/docs/Usage/Components",
             "docId": "Usage/Components"
           },
           {
             "type": "link",
             "label": "Sections",
-            "href": "/docs/Usage/Sections",
+            "href": "/es/docs/Usage/Sections",
             "docId": "Usage/Sections"
           },
           {
             "type": "link",
             "label": "Utilities",
-            "href": "/docs/Usage/Utilities",
+            "href": "/es/docs/Usage/Utilities",
             "docId": "Usage/Utilities"
           }
         ]

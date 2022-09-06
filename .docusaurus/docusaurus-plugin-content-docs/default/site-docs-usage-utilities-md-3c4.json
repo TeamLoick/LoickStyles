@@ -6,7 +6,7 @@
   "source": "@site/docs/Usage/Utilities.md",
   "sourceDirName": "Usage",
   "slug": "/Usage/Utilities",
-  "permalink": "/docs/Usage/Utilities",
+  "permalink": "/es/docs/Usage/Utilities",
   "draft": false,
   "editUrl": "https://github.com/TeamLoick/LoickStyles/blob/production/docs/Usage/Utilities.md",
   "tags": [],
@@ -15,6 +15,6 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Sections",
-    "permalink": "/docs/Usage/Sections"
+    "permalink": "/es/docs/Usage/Sections"
   }
 }

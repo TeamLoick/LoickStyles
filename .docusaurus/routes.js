@@ -3,43 +3,43 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/markdown-page',
-    component: ComponentCreator('/markdown-page', '4e0'),
+    path: '/es/markdown-page',
+    component: ComponentCreator('/es/markdown-page', '309'),
     exact: true
   },
   {
-    path: '/docs',
-    component: ComponentCreator('/docs', 'c0e'),
+    path: '/es/docs',
+    component: ComponentCreator('/es/docs', 'f05'),
     routes: [
       {
-        path: '/docs/intro',
-        component: ComponentCreator('/docs/intro', 'aed'),
+        path: '/es/docs/intro',
+        component: ComponentCreator('/es/docs/intro', '160'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/Usage/Components',
-        component: ComponentCreator('/docs/Usage/Components', '90f'),
+        path: '/es/docs/Usage/Components',
+        component: ComponentCreator('/es/docs/Usage/Components', '8e0'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/Usage/Sections',
-        component: ComponentCreator('/docs/Usage/Sections', 'a13'),
+        path: '/es/docs/Usage/Sections',
+        component: ComponentCreator('/es/docs/Usage/Sections', 'db2'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/Usage/Utilities',
-        component: ComponentCreator('/docs/Usage/Utilities', '393'),
+        path: '/es/docs/Usage/Utilities',
+        component: ComponentCreator('/es/docs/Usage/Utilities', 'ba9'),
         exact: true,
         sidebar: "tutorialSidebar"
       }
     ]
   },
   {
-    path: '/',
-    component: ComponentCreator('/', 'ef5'),
+    path: '/es/',
+    component: ComponentCreator('/es/', '6ad'),
     exact: true
   },
   {

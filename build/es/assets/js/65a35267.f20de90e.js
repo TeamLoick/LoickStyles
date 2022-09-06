@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkloickstyles_docs=self.webpackChunkloickstyles_docs||[]).push([[847],{5745:s=>{s.exports=JSON.parse('{"name":"docusaurus-plugin-content-pages","id":"default"}')}}]);

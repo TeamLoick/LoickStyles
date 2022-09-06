@@ -7,7 +7,7 @@ export default {
   "title": "LoickStyles",
   "tagline": "LoickTeam alternative to material ui and boostrap",
   "url": "https://teamloick.github.io/LoickStyles/",
-  "baseUrl": "/",
+  "baseUrl": "/es/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/logo.png",
